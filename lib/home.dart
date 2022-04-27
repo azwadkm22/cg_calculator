@@ -104,7 +104,7 @@ class _HomePageState extends State<HomePage> {
     final scaffold = ScaffoldMessenger.of(context);
     scaffold.showSnackBar(
       const SnackBar(
-        content: Text('Calculated CG is: '),
+        content: Text('Calculated your CG.'),
         backgroundColor: Color(0xFF88e079),
         duration: Duration(milliseconds: 100),
       ),
