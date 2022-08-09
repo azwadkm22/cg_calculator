@@ -1,3 +1,3 @@
 # cg_calculator
 
-Helps you calculate your CG :3
+Helps you calculate your CGPA.
